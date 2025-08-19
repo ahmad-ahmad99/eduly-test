@@ -4,9 +4,7 @@ import Grid from '@mui/material/Grid';
 import { CourseSections } from '../course-sction';
 import dynamic from 'next/dynamic';
 import { CourseItem } from 'src/types/courses';
-const CourseOverview = dynamic(() => import('../../../components/analytics/course'), {
-  loading: () => <p>Loading course overview...</p>,
-});
+const CourseOverview = dynamic(() => import('../../../components/analytics/course'));
 
 const StudentsSection = dynamic(() => import('../students-section'), {
   ssr: false,

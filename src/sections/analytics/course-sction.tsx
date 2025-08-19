@@ -5,8 +5,7 @@ import { useState } from 'react';
 import { useTranslate } from 'src/locales';
 
 const EngagementChart = dynamic(() => import('../../components/charts/engagement-chart'), {
-  ssr: false, // disable server-side rendering for charts
-  loading: () => <p>Loading charts...</p>,
+  ssr: false,
 });
 
 export function CourseSections() {
