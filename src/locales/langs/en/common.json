@@ -1,0 +1,56 @@
+{
+  "course": {
+    "overview": "Course Engagement Overview",
+    "title": "Course Title",
+    "instructor": "Instructor Name",
+    "schedule": "Course Schedule",
+    "enrolledStudents": "Enrolled Students",
+    "modules": "Course Modules"
+  },
+  "attendanceStatus": {
+    "Present": "Present",
+    "Late": "Late",
+    "Absent": "Absent"
+  },
+  "studentName": "Student Name",
+  "status": "Status",
+  "lastActive": "Last Active",
+  "sessionsAttended": "Sessions Attended",
+  "participatingNow": "Participating Now",
+  "signIn": {
+    "welcome": "Hi, Welcome back",
+    "subtitle": "More effectively with optimized workflows.",
+    "header": "Sign in to your account",
+    "title": "Sign In",
+    "username": "Username",
+    "password": "Password",
+    "needhelp": "Need help?",
+    "email": "Email"
+  },
+  "uploadPhoto": "Upload Photo",
+  "validation": {
+    "lengthTow": "Must contain at least two characters"
+  },
+  "maritalStatus": {
+    "single": "Single",
+    "married": "Married",
+    "divorced": "Divorced",
+    "widowed": "Widowed",
+    "separated": "Separated"
+  },
+  "gender": {
+    "male": "Male",
+    "female": "Female"
+  },
+  "emptyData": "No Data",
+  "actions": "Actions",
+  "required": "Field is required!",
+  "emailValidation": "Email must be a valid email address!",
+  "errorGeneral": "Something went wrong",
+  "day": "Day",
+  "dailyActiveStudents": "Daily Active Students",
+  "moduleCompletionRate": "Module Completion Rate",
+  "last7Days": "Last 7 Days",
+  "last30Days": "Last 30 Days",
+  "analytics": "Analytics"
+}

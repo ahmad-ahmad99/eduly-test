@@ -1,0 +1,41 @@
+{
+  "course": {
+    "overview": "نظرة عامة على المشاركة في الدورة",
+    "title": "عنوان الدورة",
+    "instructor": "اسم المدرب",
+    "schedule": "جدول الدورة",
+    "enrolledStudents": "الطلاب المسجلون",
+    "modules": "وحدات الدورة"
+  },
+  "attendanceStatus": {
+    "Present": "حاضر",
+    "Late": "متأخر",
+    "Absent": "غائب"
+  },
+  "signIn": {
+    "welcome": "مرحباً بك مرة أخرى",
+    "subtitle": "بأداء أفضل من خلال سير عمل مُنظَّم ومحسَّن",
+    "header": "تسجيل الدخول إلى حسابك",
+    "title": "تسجيل الدخول",
+    "username": "اسم المستخدم",
+    "password": "كلمة المرور",
+    "needhelp": "بحاجة إلى مساعدة؟",
+    "email": "البريد الإلكتروني"
+  },
+  "studentName": "اسم الطالب",
+  "status": "الحالة",
+  "lastActive": "آخر نشاط",
+  "sessionsAttended": "الجلسات المحضورة",
+  "participatingNow": "يشارك الآن",
+
+  "actions": "الإجراءات",
+  "required": "الحقل مطلوب!",
+  "emailValidation": "يجب ان يكون البريد الإلكتروني صالح",
+  "errorGeneral": "حدث خطأ ما",
+  "day": "يوم",
+  "dailyActiveStudents": "الطلاب النشطون يوميًا",
+  "moduleCompletionRate": "معدل إكمال الوحدة",
+  "last7Days": "آخر ٧ أيام",
+  "last30Days": "آخر ٣٠ يومًا",
+  "analytics": "لمحة عامة"
+}
