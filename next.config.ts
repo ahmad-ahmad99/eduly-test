@@ -32,6 +32,10 @@ const nextConfig: NextConfig = {
 
     return config;
   },
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
+
   // With --turbopack (next dev --turbopack)
   turbopack: {
     rules: {

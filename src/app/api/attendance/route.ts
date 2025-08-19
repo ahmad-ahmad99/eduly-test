@@ -1,5 +1,5 @@
-// app/api/attendance/route.ts
 import { NextResponse } from 'next/server';
+
 import { Student } from 'src/types/students';
 
 const names = [
