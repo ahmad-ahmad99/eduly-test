@@ -46,7 +46,6 @@ export default function StudentsSection() {
     try {
       const res = await fetch('/api/attendance');
       const data = await res.json();
-      console.log('data', data);
 
       setStudents(data);
       setLoading(false);
